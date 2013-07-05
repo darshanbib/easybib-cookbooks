@@ -5,4 +5,3 @@ easybib-solr/files/default/config.rb
 *.swp
 vagrant-test/.vagrant
 *.box
-.project
